@@ -1,0 +1,43 @@
+/* Copyright (c) 2012 The Chromium Authors. All rights reserved.
+ * Use of this source code is governed by a BSD-style license that can be
+ * found in the LICENSE file.
+ */
+
+html {
+  background-color: #788487;
+}
+
+#quote {
+  text-align: center;
+}
+
+#quote p {
+  font-size: 18px;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+#quote p strong {
+  font-family: 'Play', sans-serif;
+  font-size: 36px;
+}
+
+#spacer {
+  height: 50px;
+}
+
+#title {
+  color: #555;
+  font-weight: bold;
+  height: 200px;
+  vertical-align: middle;
+}
+
+#mostVisitedThumb {
+  background-repeat: no-repeat;
+  height: 200px;
+  margin-left: 20px;
+  padding-left: 20px;
+  vertical-align: middle;
+  width: 212px;
+}
